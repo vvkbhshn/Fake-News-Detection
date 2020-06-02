@@ -22,9 +22,9 @@ decisions about information based on the content from the corpus.
     
 
 This repository contains three models:-
- 1. #### LSTM model
- 2. #### Naive Bayes model
- 3. #### SVM model
+ 1. ##### LSTM model
+ 2. ##### Naive Bayes model
+ 3. ##### SVM model
  
 
 ## COMPARISON OF ACCURACY :-
@@ -37,4 +37,4 @@ This repository contains three models:-
 
 ## REFERENCES :-
 * [Fake News Identification - Stanford CS229](http://cs229.stanford.edu/proj2017/final-reports/5244348.pdf)
-* [Kaggle dataset](https://www.kaggle.com/c/fake-news/data)
+* [Kaggle datasets](https://www.kaggle.com/c/fake-news/data)
