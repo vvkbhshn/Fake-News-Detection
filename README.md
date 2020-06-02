@@ -1,8 +1,10 @@
 # Fake-News-Detection
+
 ## PROBLEM OVERVIEW:
 Develop a machine learning program to identify when a news source may be producing fake news.
 We aim to use a corpus of labeled real and fake new articles to build a classifier that can make
 decisions about information based on the content from the corpus.
+
 ## DATASET DESCRIPTION:
 - train.csv : A full training dataset with the following attributes.
     - id: unique id for a news article
@@ -14,6 +16,7 @@ decisions about information based on the content from the corpus.
         - 0: reliable
 - test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 
+
 ## REQUIREMENTS :- 
    `numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib , scikitplot`
     
@@ -22,6 +25,7 @@ This repository contains three models:-
  1. #### LSTM model
  2. #### Naive Bayes model
  3. #### SVM model
+ 
 
 ## COMPARISON OF ACCURACY :-
    |  Model           |  Accuracy     |
