@@ -13,7 +13,7 @@ DATASET DESCRIPTION:
 ● 1: unreliable
 ● 0: reliable
 ● test.csv: A testing training dataset with all the same attributes at train.csv without the label.
-REQUIREMENTS:- numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib
+REQUIREMENTS:- numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib , scikitplot
 This repository contains three models:-
 1. LSTM model
 2. Naive-Bayes model
