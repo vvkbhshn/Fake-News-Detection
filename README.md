@@ -13,12 +13,15 @@ decisions about information based on the content from the corpus.
         - 1: unreliable
         - 0: reliable
 - test.csv: A testing training dataset with all the same attributes at train.csv without the label.
-REQUIREMENTS:- numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib , scikitplot
+
+##REQUIREMENTS:- numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib , scikitplot
+
 This repository contains three models:-
-1. LSTM model
-2. Naive-Bayes model
-3. SVM model
-COMPARISON OF ACCURACY:-
+- 1. LSTM model
+- 2. Naive-Bayes model
+- 3. SVM model
+
+##COMPARISON OF ACCURACY:-
 1. LSTM - 93.72 %
 2. NAIVE BAYES - 72.31 %
 3. SVM - 91.76 %
