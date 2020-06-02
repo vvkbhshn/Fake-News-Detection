@@ -15,7 +15,7 @@ decisions about information based on the content from the corpus.
 - test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 
 ## REQUIREMENTS :- 
-    '''
+    '''javascript
    numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib , scikitplot
     '''
 
