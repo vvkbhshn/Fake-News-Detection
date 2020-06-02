@@ -15,7 +15,9 @@ decisions about information based on the content from the corpus.
 - test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 
 ## REQUIREMENTS :- 
+    '''
    numpy , tensorflow , pandas , nltk , gensim , keras , matplotlib , scikitplot
+    '''
 
 This repository contains three models:-
  1. LSTM model
