@@ -1,9 +1,11 @@
 # Fake-News-Detection
-PROBLEM OVERVIEW:
+## PROBLEM OVERVIEW:
 Develop a machine learning program to identify when a news source may be producing fake news.
+'''
 We aim to use a corpus of labeled real and fake new articles to build a classifier that can make
 decisions about information based on the content from the corpus.
-DATASET DESCRIPTION:
+'''
+## DATASET DESCRIPTION:
 ● Train.csv : A full training dataset with the following attributes.
 ■ id: unique id for a news article
 ■ title: the title of a news article
