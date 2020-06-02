@@ -4,7 +4,7 @@ Develop a machine learning program to identify when a news source may be produci
 We aim to use a corpus of labeled real and fake new articles to build a classifier that can make
 decisions about information based on the content from the corpus.
 ## DATASET DESCRIPTION:
-- Train.csv : A full training dataset with the following attributes.
+- train.csv : A full training dataset with the following attributes.
     - id: unique id for a news article
     - title: the title of a news article
     - author: author of the news article
@@ -23,9 +23,12 @@ This repository contains three models:-
  3. SVM model
 
 ## COMPARISON OF ACCURACY :-
- 1. LSTM - 93.72 %
- 2. NAIVE BAYES - 72.31 %
- 3. SVM - 91.76 %
+   |  Model           |  Accuracy     |
+   |:----------------:|:-------------:|
+   |  LSTM            |  93.72 %      |
+   |  NAIVE BAYES     |  72.31 %      |
+   |  SVM             |  91.76 %      | 
+ 
 
 ##REFERENCES :-
 Kaggle dataset : https://www.kaggle.com/c/fake-news/data
