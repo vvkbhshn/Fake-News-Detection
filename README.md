@@ -19,14 +19,14 @@ decisions about information based on the content from the corpus.
     
 
 This repository contains three models:-
- 1. LSTM model
- 2. Naive-Bayes model
- 3. SVM model
+ 1. ### LSTM model
+ 2. ### Naive-Bayes model
+ 3. ### SVM model
 
 ## COMPARISON OF ACCURACY :-
    |  Model           |  Accuracy     |
    |:----------------:|:-------------:|
-   |  NAIVE BAYES     |  72.31 %      |
+   |  Naive Bayes     |  72.31 %      |
    |  LSTM            |  93.72 %      |
    |  SVM             |  91.76 %      | 
  
