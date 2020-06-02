@@ -25,10 +25,10 @@ This repository contains three models:-
 ## COMPARISON OF ACCURACY :-
    |  Model           |  Accuracy     |
    |:----------------:|:-------------:|
+   |  nAIVE BAYES     |  72.31 %      |
    |  LSTM            |  93.72 %      |
-   |  NAIVE BAYES     |  72.31 %      |
    |  SVM             |  91.76 %      | 
  
 
-##REFERENCES :-
-Kaggle dataset : https://www.kaggle.com/c/fake-news/data
+## REFERENCES :-
+[Kaggle dataset] : (https://www.kaggle.com/c/fake-news/data)
